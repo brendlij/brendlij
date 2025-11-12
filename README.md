@@ -13,8 +13,8 @@ Currently creating modern interfaces and connected experiences.
 
 ---
 
-### Tech & Tools
-`Go` · `Rust` · `Vue` · `Tauri` · `Docker` · `PocketBase` · `ESP32`
+### Languages & Tools
+`C#` · `Rust` · `Tauri` · `Go` · `Vue.js` · `Docker`
 
 ---
 
