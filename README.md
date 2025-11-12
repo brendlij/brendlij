@@ -1,16 +1,38 @@
-## Hi there 👋
+# Julian
 
-<!--
-**brendlij/brendlij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer · 22 · Germany  
+Loves UI design, IoT tinkering, and building self-hosted ecosystems.  
+Currently crafting clean interfaces and connected systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [Binly](https://github.com/brendlij/Binly) — lightweight pastebin platform  
+- [Spalt](https://github.com/brendlij/Spalt) — sleek Tauri-based music client  
+- [Galaxy-Scape](https://github.com/brendlij/galaxy-scape-website-vue-pocketbase) — astrophotography showcase  
+- [Zent Chat](https://github.com/brendlij/zent-chat) — self-hosted chat platform  
+
+---
+
+### Stack & Tools
+`Go` · `Rust` · `Vue` · `Tauri` · `Docker` · `PocketBase` · `ESP32`
+
+---
+
+### Stats
+<a href="https://github.com/brendlij">
+  <img src="https://github-readme-stats.vercel.app/api?username=brendlij&show_icons=false&hide_border=true&theme=transparent" height="130" />
+</a>
+<a href="https://github.com/brendlij">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendlij&layout=compact&hide_border=true&theme=transparent" height="130" />
+</a>
+
+---
+
+### Quote
+> Design what you use.  
+> Build what you dream.
+
+---
+
+*(Dark-mode friendly · Minimal · Self-hosted soul)*
