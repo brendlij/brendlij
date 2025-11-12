@@ -1,20 +1,19 @@
 # Julian
 
 Developer · 22 · Germany  
-Loves UI design, IoT tinkering, and building self-hosted ecosystems.  
-Currently crafting clean interfaces and connected systems.
+Loves UI design, IoT tinkering, and building self-hosted systems.  
+Currently creating modern interfaces and connected experiences.
 
 ---
 
 ### Featured Projects
-- [Binly](https://github.com/brendlij/Binly) — lightweight pastebin platform  
-- [Spalt](https://github.com/brendlij/Spalt) — sleek Tauri-based music client  
-- [Galaxy-Scape](https://github.com/brendlij/galaxy-scape-website-vue-pocketbase) — astrophotography showcase  
-- [Zent Chat](https://github.com/brendlij/zent-chat) — self-hosted chat platform  
+- [Binly](https://github.com/brendlij/Binly) — modern, lightweight pastebin  
+- [Obisidian](https://github.com/brendlij/obisidian) — minimal Minecraft server manager  
+- [RapidFits](https://github.com/chrischtel/RapidFits) — fast FITS viewer & astrophotography tool  
 
 ---
 
-### Stack & Tools
+### Tech & Tools
 `Go` · `Rust` · `Vue` · `Tauri` · `Docker` · `PocketBase` · `ESP32`
 
 ---
