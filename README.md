@@ -8,7 +8,7 @@ Currently creating modern interfaces and connected experiences.
 
 ### Featured Projects
 - [Binly](https://github.com/brendlij/Binly) — modern, lightweight pastebin — Check it out [here](https://binly.brendlij.dev).
-- [Obisidian](https://github.com/brendlij/obisidian) — minimal Minecraft server manager  
+- [SoftFeed](https://github.com/brendlij/softfeed) -  self-hosted RSS reader
 - [RapidFits](https://github.com/chrischtel/RapidFits) — fast FITS viewer & astrophotography tool  
 
 ---
