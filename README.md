@@ -2,7 +2,6 @@
 
 Developer · 22 · Germany  
 Loves UI design, IoT tinkering, and building self-hosted systems.  
-Currently creating modern interfaces and connected experiences.
 
 ---
 
