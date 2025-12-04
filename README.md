@@ -7,8 +7,8 @@ Currently creating modern interfaces and connected experiences.
 ---
 
 ### Featured Projects
+- [Herbst](https://github.com/brendlij/herbst) - A cozy, minimal homelab dashboard. Zero database, just TOML. 🍂🍁 
 - [Binly](https://github.com/brendlij/Binly) — modern, lightweight pastebin — Check it out [here](https://binly.brendlij.dev).
-- [SoftFeed](https://github.com/brendlij/softfeed) -  self-hosted RSS reader
 - [RapidFits](https://github.com/chrischtel/RapidFits) — fast FITS viewer & astrophotography tool  
 
 ---
