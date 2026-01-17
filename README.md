@@ -7,8 +7,6 @@ Loves UI design, IoT tinkering, and building self-hosted systems.
 
 ### Featured Projects
 - [Herbst](https://github.com/brendlij/herbst) - A cozy, minimal homelab dashboard. Zero database, just TOML. 🍂🍁 
-- [Binly](https://github.com/brendlij/Binly) — modern, lightweight pastebin — Check it out [here](https://binly.brendlij.dev).
-- [RapidFits](https://github.com/chrischtel/RapidFits) — fast FITS viewer & astrophotography tool  
 
 ---
 
