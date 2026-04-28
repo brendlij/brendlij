@@ -1,6 +1,6 @@
 # Julian
 
-Developer · 22 · Germany  
+Developer · 23 · Germany  
 Loves UI design, IoT tinkering, and building self-hosted systems.  
 
 ---
@@ -31,4 +31,4 @@ Loves UI design, IoT tinkering, and building self-hosted systems.
 
 ---
 
-*(Dark-mode friendly · Minimal · Self-hosted soul)*
+*(Minimal · Self-hosted soul)*
