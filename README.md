@@ -11,7 +11,7 @@ Loves UI design, IoT tinkering, and building self-hosted systems.
 ---
 
 ### Languages & Tools
-`C#` · `Rust` · `Tauri` · `Go` · `Vue.js` · `Docker`
+`C#` · `Go` · `JavaScript` · `TypeScript` · `Python` · `Vue.js` · `Astro` · `Docker`
 
 ---
 
@@ -27,8 +27,3 @@ Loves UI design, IoT tinkering, and building self-hosted systems.
 
 ### Quote
 > Design what you use.  
-> Build what you dream.
-
----
-
-*(Minimal · Self-hosted soul)*
